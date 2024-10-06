@@ -45,7 +45,7 @@ Answer : **解决二分类问题**
 
 （公式中y为分类结果）<br />
 两式结合，便是逻辑回归的公式：
-![image](https://github.com/user-attachments/assets/c129dce4-c186-4b52-b703-7c642bdb47e8)
+![image](https://github.com/user-attachments/assets/8a1d4620-bd01-4cee-aa6d-be1de4907926))
 
 当z越大，y越接近1；z越小，y越接近0。通过sigmoid函数，我们将回归得到的结果转化为了0~1之间的某一个数。然后再将小于0.5的结果预测为0，大于0.5的结果预测为1，从而得到二分类的结果，至此LR的过程便完成了
 
