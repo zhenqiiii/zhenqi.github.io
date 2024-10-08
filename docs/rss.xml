@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Zhenqiiii's Blog</title><link>https://zhenqiiii.github.io/zhenqi.github.io</link><description>知道自己想要什么，比如说甜甜圈</description><copyright>Zhenqiiii's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/148515933?v=4</url><title>avatar</title><link>https://zhenqiiii.github.io/zhenqi.github.io</link></image><lastBuildDate>Sun, 06 Oct 2024 08:00:26 +0000</lastBuildDate><managingEditor>Zhenqiiii's Blog</managingEditor><ttl>60</ttl><webMaster>Zhenqiiii's Blog</webMaster><item><title>机器学习内容之逻辑回归--Logistic Regression</title><link>https://zhenqiiii.github.io/zhenqi.github.io/post/ji-qi-xue-xi-nei-rong-zhi-luo-ji-hui-gui---Logistic%20Regression.html</link><description># 机器学习内容之逻辑回归 Logistic Regression&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Zhenqiiii's Blog</title><link>https://zhenqiiii.github.io/zhenqi.github.io</link><description>知道自己想要什么，比如说甜甜圈</description><copyright>Zhenqiiii's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/148515933?v=4</url><title>avatar</title><link>https://zhenqiiii.github.io/zhenqi.github.io</link></image><lastBuildDate>Tue, 08 Oct 2024 03:33:00 +0000</lastBuildDate><managingEditor>Zhenqiiii's Blog</managingEditor><ttl>60</ttl><webMaster>Zhenqiiii's Blog</webMaster><item><title>VScode配置GO语言环境</title><link>https://zhenqiiii.github.io/zhenqi.github.io/post/VScode-pei-zhi-GO-yu-yan-huan-jing.html</link><description># VScode简单配置GO语言开发环境&#13;
+## 一. Go语言安装&#13;
+**下载安装**&#13;
+&#13;
+官方下载地址: &lt;br /&gt; https://golang.google.cn/doc/install&#13;
+&#13;
+![image](https://github.com/user-attachments/assets/e61d0b50-350f-4e05-b35e-18784698f628)&#13;
+&#13;
+&#13;
+这里我是windows系统， 所以选择windows，点击download ，进入 下面的页面&lt;br /&gt;&#13;
+&#13;
+![image](https://github.com/user-attachments/assets/bccc6ecf-9573-41d7-a4c7-67e5ca7d4821)&#13;
+&#13;
+点击Microsoft Windows下面的链接可以直接下载最新版本的windows安装包。</description><guid isPermaLink="true">https://zhenqiiii.github.io/zhenqi.github.io/post/VScode-pei-zhi-GO-yu-yan-huan-jing.html</guid><pubDate>Tue, 08 Oct 2024 03:32:36 +0000</pubDate></item><item><title>机器学习内容之逻辑回归--Logistic Regression</title><link>https://zhenqiiii.github.io/zhenqi.github.io/post/ji-qi-xue-xi-nei-rong-zhi-luo-ji-hui-gui---Logistic%20Regression.html</link><description># 机器学习内容之逻辑回归 Logistic Regression&#13;
 &#13;
 ## 什么是逻辑回归&#13;
 逻辑回归是数据挖掘中的一种算法&#13;
